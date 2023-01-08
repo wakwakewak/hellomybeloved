@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>EmpoTechHaha</title>
+<style>
+h1 {
+    font-family:fantasy; 
+    font-size:xx-large;
+    text-align:center;
+    color:white
+}
+p {
+    font-size:20px;
+    font-family:'Times New Roman', Times, serif ;
+    text-align: justify;
+    color: white;
+    width: 1000px;
+    margin: 10px 160px;
+    outline-color: rgb(255, 255, 255);
+    outline-style: double;
+    outline-width: 5px;
+    background-color: rgba(71, 71, 71, 0.555);
+    border-radius: 10px;
+}
+body {
+    background-image:  linear-gradient(to bottom, rgba(0, 195, 255, 0.52), rgba(0, 59, 252, 0.73)),url(Odet1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100% 100%;
+    box-sizing: border-box;
+}
+img {
+    border-radius: 10%;
+    margin: 15px;
+    padding: 17px;
+    outline-color: rgb(255, 254, 254);
+    outline-style: double;
+    outline-width: 5px;
+}
+li {
+    display:inline;
+    float: left;
+}
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding:0px;
+    overflow: hidden;
+    background-color: white; 
+}
+li a {
+    display: block;
+    padding:25px 25px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+li a:hover {
+    background-color: rgb(54, 54, 54);
+    color: aliceblue;
+    transition-duration: 0.4s;
+}
+li h3 {
+    padding:0px;
+    font-size: 23px;
+    font-family: fantasy;
+}
+a {
+    color: white;
+}
+h4 {
+    color: white;
+    font-family: fantasy;
+    font-size: 30px;
+    text-align: center;
+    height: 0px;
+}
+</style>
+</head>
+<link rel="icon" type="image/x-icon" href="Logo.jpg"
+<body>
+    
+    <ul>
+        <li><h3>&nbsp;&nbsp;&nbsp;•BAYANIHAN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h3></li>
+        <li><a href="EmpoRevamp.html">Home</a></li>
+        <li><a href="DonateP1.html">Donate</a></li>
+        <li><a href="ContactUs.html">Contact Us</a></li>
+        <li><a href="EmpoRevampHomePage.html">About Us</a></li>
+      </ul>
+<hr>
+<p>It’s been almost three years since Covid greatly impacted our society, and recently Typhoon Odette devastated our homes. After the unrelenting typhoon, where individuals witnessed the wrath of Odette, people somehow lost hope but still they managed to rise and stand still again. Getting hit by a typhoon is not a big problem, as long as we’re alive, we will be able to rise again. .</p>
+<hr>
+<p>The heavy rain, the strong blow of the wind, and the fear in our eyes as we saw the wrath of Odette will remain history to our lives. The timing was terrible and the devastation was unimaginable. The only thing that comes through our minds during that situation is on how we will survive. As the Typhoon continues to explore our beautiful homes, I didn’t have the time to think of our house, I only thought and cared about the safety and well-being of my family. As long as we're alive, I'm more than happy, blessed, and lucky. The sky looked bright, blue, and gorgeous after the typhoon, yet looking below, messes and damages are everywhere. Looking into the new scenery, I see bayanihan. People who had lost their homes and resources, neighbors let them stay in their home for a while and provided them food for them to eat. Through this experience we learn how to take care and value each other's well-being. </p>
+<hr>
+<p>Although this has been a traumatic experience, it has also helped me become more sociable and approachable with people in certain ways. As the day progresses, I've come to understand that my neighbors and I have participated in several acts of bayanihan that have been quite remarkable. We support one another, serve as an example of hope to others, and serve as a source of encouragement, lifting people up and encouraging them to never let their bad thoughts overcome them and to be just happy in their lives.  Introducing a trust system inside the group is very important since it’s what supports us in overcoming the barriers that stand in our way. As we go on in our  lives and begin new chapters, we should be proud and thankful of ourselves for being able to embrace another day filled with new lessons, beauty and blessings.</p>
+<hr>
+<h4>Aftermath:</h4>
+<img src="Aftmath1.jpg" style="width:600px;height:500px;">
+<img src="Aftmath2.jpg" style="width:600px;height:500px;">
+<img src="Aftmath3.jpg" style="width:600px;height:500px;">
+<img src="Aftmath4.jpeg" style="width:600px;height:500px;">
+<hr>
+<center><a href="https://shattereddisk.github.io/rickroll/rickroll.mp4">Next Page</a></center>
+</body>
+</html>
